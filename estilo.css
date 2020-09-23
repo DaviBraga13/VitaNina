@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+header {
+    background-image: url(../imagens/icone/fundo\ do\ cabeçalho.jpg);
+    padding: 16px;
+    text-align: center;
+    opacity: 0.8;
+    border: solid white;
+    border-radius: 15px;
+    margin: 0px;
+}
+
+#nome {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: rgb(87, 2, 87);
+    
+}
+
+#subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(87, 2, 87);
+    font-style: italic;
+}
+
+#cardapio {
+    text-align: center;
+    color: rgb(87, 2, 87);
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid white;
+    border-radius: 5px;
+    border-width: 5px;
+    width: 200px;
+    height: 37px;
+    padding: 10px;
+    
+    
+}
+
+#cabeça {
+    display: flex;
+    justify-content: center;
+}
+
+#menu ul li {
+    display: inline;
+    padding: 2px 10px;
+
+}
+
+.atop{
+    text-decoration: none;
+    color: rgb(87, 2, 87);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 20px;
+    border: white solid;
+    padding: 5px;
+    border-radius: 10px;
+    background-color:rgba(255, 192, 203, 0.699);
+    
+}
+
+.pagamento {
+    float: right;
+    width: 75px;
+    height: 75px;
+}
+
+article{
+    background-color:rgba(255, 192, 203, 0.699);
+    border-radius: 25px;
+    padding: 50px;
+    border: double white 25px;
+}
+
+#abacate {
+    width:406px;
+    height:330px ;
+    float: left;
+    border-radius: 30px;
+}
+
+.titulo1{
+    color: green;
+    
+}
+
+.infadd {
+    margin-left: 500px;
+    margin-top: 80px;
+    margin-right: 90px;
+    border: ridge rgba(240, 159, 173, 0.658) 12px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    
+}
+
+#acai {
+    width: 406px;
+    height: 339px;
+    float: left;
+    border-radius: 30px;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo2 {
+    color: rgb(121, 3, 58)
+}
+
+#banana {
+    width: 413px;
+    height:302px;
+    float: left;
+    border-radius: 30px;
+}
+
+.titulo3 {
+    color: rgb(173, 173, 72);
+}
+
+#morango {
+    width: 444px;
+    height: 291px;
+    float: left;
+    border-radius: 30px;
+}
+
+.titulo4 {
+    color: rgb(207, 115, 207);
+}
+
+#pessego {
+    width: 420px;
+    height: 323px;
+    float: left;
+    border-radius: 30px;
+}
+
+.titulo5 {
+    color: sandybrown;
+}
+
+#roma {
+    width: 389px;
+    height: 294px;
+    float: left;
+    border-radius: 30px;
+}
+
+#laclac{
+    background-color: rgba(240, 159, 173, 0.658);
+    padding: 30px;
+    border-radius: 25px;
+}
+
+#imglac {
+    width: 800px;
+    height: 430px;
+    border-radius: 25px;
+    
+}
+ 
+#centimg {
+    text-align: center;
+ }
+
+ #intlac {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    color: rgb(87, 2, 87);
+    text-align: center;
+ }
+
+ footer {
+     background-color: rgba(240, 159, 173, 0.658);
+     text-align: center;
+     padding: 15px;
+     border: solid white;
+     border-radius: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+
+ }
+
+ .local {
+    float: left;
+    width: 85px;
+    height: 75px;
+}
+ 
+
+    
+
+
