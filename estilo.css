@@ -7,7 +7,7 @@ h1 {
 }
 
 header {
-    background-image: url("VitaNina/fundo.jpg")
+    background: url("fundo.jpg")
     padding: 16px;
     text-align: center;
     opacity: 0.8;
